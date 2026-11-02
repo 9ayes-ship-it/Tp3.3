@@ -1,0 +1,27 @@
+header {
+  background-color: #efe1d5;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin:0px;
+  
+  
+  
+}
+h1 {
+  color: #222;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+  margin: 0 10px;
+}
+a:hover {
+  text-decoration: underline;
+  color: #d81c1c;
+}
